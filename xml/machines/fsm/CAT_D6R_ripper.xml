@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<vehicle>
+    <machine type="ripper">
+        <input modes="LOWER FLATTEN SMOOTH PAINT" />
+        <workArea referenceNode="groundReferenceNode" width="2" />
+    </machine>
+</vehicle>

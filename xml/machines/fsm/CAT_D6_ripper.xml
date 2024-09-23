@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<vehicle>
+    <input modes="LOWER FLATTEN SMOOTH PAINT" />
+    <workArea referenceNode="groundReferenceNode" width="2" />
+</vehicle>

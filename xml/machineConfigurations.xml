@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<configurations>
+    <!-- Gjerstad pack -->
+    <configuration
+        vehicle="FS22_gjerstadPack/vehicles/cableBucket850L_S70/cableBucket850L_S70.xml"
+        file="xml/machines/gjerstadPack/cableBucket850L_S70.xml" />
+    <configuration
+        vehicle="FS22_gjerstadPack/vehicles/gradingBucket1300S70/gradingBucket1300S70.xml"
+        file="xml/machines/gjerstadPack/gradingBucket1300S70.xml" />
+    <configuration
+        vehicle="FS22_gjerstadPack/vehicles/largeLevelingBucket/largeLevelingBucket.xml"
+        file="xml/machines/gjerstadPack/largeLevelingBucket.xml" />
+    <configuration
+        vehicle="FS22_gjerstadPack/vehicles/lightMaterialBucket/lightMaterialBucket.xml"
+        file="xml/machines/gjerstadPack/lightMaterialBucket.xml" />
+    <configuration
+        vehicle="FS22_gjerstadPack/vehicles/smallLevelingBucket/smallLevelingBucket.xml"
+        file="xml/machines/gjerstadPack/smallLevelingBucket.xml" />
+    <configuration
+        vehicle="FS22_gjerstadPack/vehicles/ripperS70/ripperS70.xml"
+        file="xml/machines/gjerstadPack/ripperS70.xml" />
+
+    <!-- ENGCON pack -->
+    <!-- NOT TESTED -->
+    <configuration
+        vehicle="FS22M_Tool_ENGCON_Pack/xmlFilename/cable.xml"
+        file="xml/machines/engconPack/cableBucket.xml" />
+    <configuration
+        vehicle="FS22M_Tool_ENGCON_Pack/xmlFilename/deepDiggingBroad.xml"
+        file="xml/machines/engconPack/deepDiggingBucket.xml" />
+    <configuration
+        vehicle="FS22M_Tool_ENGCON_Pack/xmlFilename/deepDigging.xml"
+        file="xml/machines/engconPack/deepDiggingBroadBucket.xml" />
+    <configuration
+        vehicle="FS22M_Tool_ENGCON_Pack/xmlFilename/grading.xml"
+        file="xml/machines/engconPack/graderBucket.xml" />
+    <configuration
+        vehicle="FS22M_Tool_ENGCON_Pack/xmlFilename/waterDrainage.xml"
+        file="xml/machines/engconPack/waterDrainageBucket.xml" />
+
+    <!-- ModHub -->
+    <configuration
+        vehicle="FS22_lizard320Excavator/vehicles/bucket1250lS70/bucket1250lS70.xml"
+        file="xml/machines/modHub/Lizard_320_1250LS70.xml" />
+
+    <!-- FSM: Compactors -->
+    <configuration
+        vehicle="FS22_Bomag_BW120_FSM/FrontWheelRoller.xml"
+        file="xml/machines/fsm/Bomag_BW120.xml" />
+    <configuration
+        vehicle="FS22_BomagRoller_FSM/FrontWheelRoller.xml"
+        file="xml/machines/fsm/BomagRoller.xml" />
+
+    <!-- FSM: Levelers -->
+    <configuration
+        vehicle="FS22_Case_1150M_FSM/1150M.xml"
+        file="xml/machines/fsm/Case_1150M.xml" />
+    <configuration
+        vehicle="FS22_CAT_D4NG_FSM/Catd4.xml"
+        file="xml/machines/fsm/CAT_D4NG.xml" />
+    <configuration
+        vehicle="FS22_Cat_D6K2_FSM/CatD6Blade.xml"
+        file="xml/machines/fsm/CAT_D6_blade.xml" />
+    <configuration
+        vehicle="FS22_CAT_D6R_FSM/Catd6.xml"
+        file="xml/machines/fsm/CAT_D6R.xml" />
+    <configuration
+        vehicle="FS22_CAT_D10T_FSM/Catd10.xml"
+        file="xml/machines/fsm/CAT_D10T.xml" />
+    <configuration
+        vehicle="FS22_JohnDeere_700L_FSM/700L.xml"
+        file="xml/machines/fsm/JohnDeere_700L.xml" />
+    <configuration
+        vehicle="FS22_Komatsu_GD655_FSM/komatsu_gd655.xml"
+        file="xml/machines/fsm/Komatsu_GD655.xml" />
+    <configuration
+        vehicle="FS22_Komatsu_575D_FSM/575D.xml"
+        file="xml/machines/fsm/Komatsu_575D.xml" />
+
+    <!-- FSM: Ground rippers -->
+    <configuration
+        vehicle="FS22_JohnDeere_700L_FSM/700Lripper.xml"
+        file="xml/machines/fsm/JohnDeere_700L_ripper.xml" />
+    <configuration
+        vehicle="FS22_CAT_D6R_FSM/d6Ripper.xml"
+        file="xml/machines/fsm/CAT_D6R_ripper.xml" />
+    <configuration
+        vehicle="FS22_CAT_D10T_FSM/d10Ripper.xml"
+        file="xml/machines/fsm/CAT_D10T_ripper.xml" />
+
+    <!-- FSM: Wheel loader shovels -->
+    <configuration
+        vehicle="FS22_980K/980Bucket.xml"
+        file="xml/machines/fsm/CAT_980K_bucket.xml"
+    />
+    <configuration
+        vehicle="FS22_CAT_980K_Coal_Bucket_FSM/cbucket.xml"
+        file="xml/machines/fsm/CAT_980K_coalBucket.xml"
+    />
+    <configuration
+        vehicle="FS22_CAT_980K_Mining_Bucket_FSM/mbucket.xml"
+        file="xml/machines/fsm/CAT_980K_miningBucket.xml"
+    />
+
+    <!-- FSM: Wheel loaders -->
+    <configuration
+        vehicle="FS22_Komatsu_WA1200_C_FSM/1200.xml"
+        file="xml/machines/fsm/Komatsu_WA1200C.xml"
+    />
+
+    <!-- FSM: Trenchers -->
+    <configuration
+        vehicle="FS22_Vermeer_T75_Trencher_FSM/t755.xml"
+        file="xml/machines/fsm/Vermeer_T75.xml"
+    />
+
+    <!-- FSM: Excavators -->
+    <configuration
+        vehicle="FS22_Volvo_EC950_FSM/ec950.xml"
+        file="xml/machines/fsm/Volvo_EC950E.xml"
+    />
+
+    <!-- FSM: Excavator shovels -->
+    <configuration
+        vehicle="FS22_Volvo_EC750EL_FSM/Bucket1.xml"
+        file="xml/machines/fsm/Volvo_EC750EL_bucket.xml"
+    />
+    <configuration
+        vehicle="FS22_Volvo_EC750EL_FSM/Bucket2.xml"
+        file="xml/machines/fsm/Volvo_EC750EL_miningBucket.xml"
+    />
+
+    <!-- FS22_JCB_Pack_CX -->
+    <configuration
+        vehicle="FS22_JCB_Pack_CX/xml/godet1.xml"
+        file="xml/machines/jcbPack/godet1.xml" />
+    <configuration
+        vehicle="FS22_JCB_Pack_CX/xml/godet2.xml"
+        file="xml/machines/jcbPack/godet2.xml" />
+    <configuration
+        vehicle="FS22_JCB_Pack_CX/xml/godet3.xml"
+        file="xml/machines/jcbPack/godet3.xml" />
+    <configuration
+        vehicle="FS22_JCB_Pack_CX/xml/godet4.xml"
+        file="xml/machines/jcbPack/godet4.xml" />
+    <configuration
+        vehicle="FS22_JCB_Pack_CX/xml/godet5.xml"
+        file="xml/machines/jcbPack/godet5.xml" />
+
+    <!-- Misc Kingmods -->
+    <configuration
+        vehicle="FS22_D123_NG/Dozers.xml"
+        file="xml/machines/kingmods/CAT_D123_NG.xml" />
+</configurations>

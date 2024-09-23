@@ -1,0 +1,20 @@
+{
+    "archive": {
+        "targetFile": "build/FS22_0_TerraFarmMachines.zip",
+        "extensions": [
+            "xml",
+            "dds"
+        ],
+        "exclude": [
+            ".git/",
+            ".vscode/",
+            "build&"
+        ],
+        "debug": {
+            "exclude": []
+        },
+        "release": {
+            "exclude": []
+        }
+    }
+}
