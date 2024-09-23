@@ -3,7 +3,7 @@
 ![1](./icon_terraFarmMachines.png)
 
 This mod adds support for 3rd. party equipment.
-TerraFarm now supports adding machine configurations inside mod archives (recommended), so this mod will eventually be discontinued once the community has made progress on creating cofigurations mods etc.
+TerraFarm now supports adding machine configurations inside mod archives (recommended), so this mod will eventually be discontinued once the community has made progress on creating configurations mods etc.
 
 Integrated configurations will be prioritized, and will use these as fallback.
 
