@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<vehicle>
+    <machine type="excavatorRipper">
+        <input modes="LOWER FLATTEN SMOOTH PAINT" />
+        <workArea referenceNode="cutterNode" width="1" rotation="0 85 90" offset="0 -0.1 0" />
+    </machine>
+</vehicle>

@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <modDesc descVersion="73">
-    <author>scfmod</author>
-    <version>1.0.0.0</version>
+    <author>scfmod + Fallingblood</author>
+    <contributors>
+        <![CDATA[
+            Fallingblood: Setting up and adding hundreds of new configurations
+        ]]>
+    </contributors>
+    <version>1.1.0.0</version>
     <title>
         <en>TerraFarm - Machines Addon</en>
     </title>
