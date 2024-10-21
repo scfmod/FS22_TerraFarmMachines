@@ -37,6 +37,7 @@ Read the full mod list [here](./MODS.md).
 ### Kingmods.net
 - [Bobcat MT100 CHS](https://www.kingmods.net/en/fs22/mods/30794/bobcat-mt100-chs)
 - [BOMAG BT65](https://www.kingmods.net/en/fs22/mods/34254/bomag-bt65)
+- [CAT 349 - 352 Next Gen Pack](https://www.kingmods.net/en/fs22/mods/36088/cat-349-352-next-gen-pack)
 - [CAT D123 NG](https://www.kingmods.net/en/fs22/mods/34461/dozer-cat-d123)
 - [Caterpillar 7495 HD](https://www.kingmods.net/en/fs22/mods/16905/caterpillar-7495-hd)
 - [Caterpillar 836K](https://www.kingmods.net/en/fs22/mods/14852/caterpillar-836k)
