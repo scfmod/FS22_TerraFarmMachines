@@ -6,7 +6,7 @@ This mod adds support for 3rd. party equipment.
 
 Feel free to use this as base for your own configuration mod.
 
-**Requires [TerraFarm](https://github.com/scfmod/FS22_TerraFarm) 0.9.5.0 or later installed**
+**Requires [TerraFarm](https://github.com/scfmod/FS22_TerraFarm) 0.9.7.0 or later installed**
 
 ## How to download and install
 
