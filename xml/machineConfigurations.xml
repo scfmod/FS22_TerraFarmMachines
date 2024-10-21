@@ -120,6 +120,23 @@
 
 
 	<!-- Third party -->
+
+	<configuration
+		vehicle="FS22_Cat_349_352_Pack/attachments/60inFBRC.xml"
+		file="xml/machines/generic/excavatorShovel.xml"
+	/>
+	<configuration
+		vehicle="FS22_Cat_349_352_Pack/attachments/wt36in.xml"
+		file="xml/machines/generic/excavatorShovel.xml"
+	/>
+	<configuration
+		vehicle="FS22_Cat_349_352_Pack/attachments/wt54in.xml"
+		file="xml/machines/generic/excavatorShovel.xml"
+	/>
+	<configuration
+		vehicle="FS22_Cat_349_352_Pack/attachments/wt77in.xml"
+		file="xml/machines/generic/excavatorShovel.xml"
+	/>
 	
 	<configuration
 		vehicle="FS22_K9_Dozer_Blade/K9Blade.xml"
