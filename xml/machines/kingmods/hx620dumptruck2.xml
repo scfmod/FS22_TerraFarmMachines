@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<vehicle>
+    <machine type="discharger">
+        <!-- <workArea width="2" offset="0 0 -0.2" raycastDistance="0.15" /> -->
+        <workArea width="2.5" offset="0 0 -1.5" raycastDistance="0.1" />
+    </machine>
+</vehicle>
