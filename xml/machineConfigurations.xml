@@ -16,6 +16,9 @@
     <configuration
 		vehicle="FS22_Lizard_Superior_End_Dump/Superior48.xml"
 		file="xml/machines/modhub/Lizard_Superior_Dump.xml" />
+    <configuration
+		vehicle="FS22_KrAZ/kraz_65032.xml"
+		file="xml/machines/kingmods/kraz_65032.xml" />
 	<!-- Gjerstad pack -->
     <configuration
 		vehicle="FS22_gjerstadPack/vehicles/cableBucket850L_S70/cableBucket850L_S70.xml"
