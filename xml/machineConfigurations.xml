@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <configurations>
+	<!-- Trailers/trucks -->
+    <configuration
+		vehicle="FS22_Lizard_Superior_End_Dump/Superior20.xml"
+		file="xml/machines/modhub/Lizard_Superior_Dump.xml" />
+    <configuration
+		vehicle="FS22_Lizard_Superior_End_Dump/Superior28.xml"
+		file="xml/machines/modhub/Lizard_Superior_Dump.xml" />
+    <configuration
+		vehicle="FS22_Lizard_Superior_End_Dump/Superior34.xml"
+		file="xml/machines/modhub/Lizard_Superior_Dump.xml" />
+    <configuration
+		vehicle="FS22_Lizard_Superior_End_Dump/Superior40.xml"
+		file="xml/machines/modhub/Lizard_Superior_Dump.xml" />
+    <configuration
+		vehicle="FS22_Lizard_Superior_End_Dump/Superior48.xml"
+		file="xml/machines/modhub/Lizard_Superior_Dump.xml" />
 	<!-- Gjerstad pack -->
     <configuration
 		vehicle="FS22_gjerstadPack/vehicles/cableBucket850L_S70/cableBucket850L_S70.xml"
