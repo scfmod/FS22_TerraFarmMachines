@@ -2424,7 +2424,7 @@
 		
 		<configuration
 		vehicle="FS22_WirtgenWR250/WirtgenWR250.xml"
-		file="xml/machines/giants/Paladin_highDumpBucket.xml" />
+		file="xml/machines/thirdParty/WirtgenWR250.xml" />
 		
 		<configuration
 		vehicle="FS22_Case_855D_TrackLoader/4in1bucket/Bucket.xml"
