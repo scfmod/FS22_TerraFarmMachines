@@ -19,6 +19,9 @@
     <configuration
 		vehicle="FS22_KrAZ/kraz_65032.xml"
 		file="xml/machines/kingmods/kraz_65032.xml" />
+    <configuration
+		vehicle="WMF_HX620Dump_FS22/hx620dumptruck2.xml"
+		file="xml/machines/kingmods/hx620dumptruck2.xml" />
 	<!-- Gjerstad pack -->
     <configuration
 		vehicle="FS22_gjerstadPack/vehicles/cableBucket850L_S70/cableBucket850L_S70.xml"
