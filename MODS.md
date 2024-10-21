@@ -171,6 +171,7 @@ FS22_D6N
 FS22_D6N_FSM
 FS22_D6TLGP_WinStorm_Edit
 FS22_D7_Sideboom
+FS22_DACR19215DFK
 FS22_Deere345G_LC
 FS22_Deere650K
 FS22_Deere764
@@ -254,6 +255,7 @@ FS22_Komatsu_WA1800_FSM
 FS22_Komatsu_WA380_new
 FS22_Komatsu_WA900A_FSM
 FS22_Komatsu_WA900_3
+FS22_KrAZ
 FS22_LIEBHERR_902_Pack_Crossplay
 FS22_LandClearingPack
 FS22_LandscapeRake22
@@ -275,6 +277,7 @@ FS22_Lizard_GrappleBucket
 FS22_Lizard_HFP23
 FS22_Lizard_LT_Pack
 FS22_Lizard_Scorpion
+FS22_Lizard_Superior_End_Dump
 FS22_Lizard_WheelLoaderShovel
 FS22_Locura_CAT_Mining_Set
 FS22_LosAntonios_CC5000
@@ -385,6 +388,7 @@ RSRFAB22_JohnDeere_Kseries_PayLoader
 Takeuchi_TB290
 WMF_CAT420FIT_FS22
 WMF_CAT420FIT_FS22V2
+WMF_HX620Dump_FS22
 WMF_Komatsu_WA250PZ_FS22
 WMF_VolvoG940BGrader_FS22
 ```
