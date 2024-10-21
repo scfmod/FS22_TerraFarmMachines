@@ -22,6 +22,11 @@
     <configuration
 		vehicle="WMF_HX620Dump_FS22/hx620dumptruck2.xml"
 		file="xml/machines/kingmods/hx620dumptruck2.xml" />
+    <configuration
+		vehicle="FS22_DACR19215DFK/MUIEBARBASUBREDA.xml"
+		file="xml/machines/kingmods/DACR19215DFK.xml" />
+
+
 	<!-- Gjerstad pack -->
     <configuration
 		vehicle="FS22_gjerstadPack/vehicles/cableBucket850L_S70/cableBucket850L_S70.xml"
